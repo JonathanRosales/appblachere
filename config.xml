@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <widget xmlns = "http://www.w3.org/ns/widgets"
  xmlns:gap = "http://phonegap.com/ns/1.0"
- id = "com.phonegap.example12"
+ id = "com.phonegap.example1"
  version = "1.0.0">
 
 <name>Blachere México</name>
@@ -16,12 +16,13 @@ design studio america
 
 <!-- Personaliza la aplicacion y plataforma -->
 <preference name="orientation" value="default" />
-<!-- <preference name="orientation" value="portrait" />
-<preference name="orientation" value="landscape" /> -->
+<preference name="orientation" value="portrait" />
+<preference name="orientation" value="landscape" /> 
 <preference name="target-device" value="universal" />
 <preference name="fullscreen" value="true" />
 <preference name="android-installLocation" value="auto" />
 <preference name="permissions" value="INTERNET" />
+
 
 <!-- Plugins -->
 <!-- Core plugins -->
@@ -29,10 +30,9 @@ design studio america
 <plugin name="cordova-plugin-vibration" spec="~2.1.3" />
 <plugin name="cordova-plugin-dialogs" spec="~1.3.1" />
 
-<!-- <plugin name="cordova-plugin-geolocation" source="npm" /> -->
+ <plugin name="cordova-plugin-geolocation" source="npm" /> 
 <!-- Third party plugins -->
 
 <!-- Colocar icono app -->
 <icon src="res/android/mdpi.png" />
-
  </widget>
