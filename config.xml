@@ -4,14 +4,14 @@
 	id    = "com.phonegap.example1"  
 	version  = "1.0.0">  
        
-     <name> app1 Actualizada DATOSALUMNOS </name>  
+     <name>Blachere México</name>  
      
 	<description>  
-	Aplicacion que muestra los DATOS del alumno
+	Aplicacion que muestra un catalogo digital para el equipo de ventas 
 	</description>  
      
-	<author href="https://build.phonegap.com" email="micorreo@gmail.com">  
-	Datos del autor
+	<author href="https://build.phonegap.com" email="jonathan1547.jare69@gmail.com">  
+	desing studio america
 	</author>  
       
 	<!-- Personaliza la aplicacion y plataforma  -->  
